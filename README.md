@@ -25,5 +25,3 @@ This is a website formerly made for a company called Seven Grains. It is made fr
 
 ## License
 - You can have the website and customize if for your purposes. Happy coding!!!!!!!
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
